@@ -1,6 +1,6 @@
 ### Halo semua!
 Perkenalkan nama saya **Monica Febyola Silitonga**.\
-Saya seorang mahasiswa jurusan Sistem Informasi di Universitas Mikroskil Medan.
+Saya adalah lulusan baru Sistem Informasi di Universitas Mikroskil Medan dengan IPK 3.53
 
 <p align="left">
 <a href="https://github.com/monicasltg">
